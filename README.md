@@ -11,7 +11,7 @@ Criteria: SY0-701 - CompTIA Security+ certification exam
 Verify at: http://verify.CompTIA.org
 
 <h2>Certificate</h2>
-![comptia security certificate](https://github.com/user-attachments/assets/e0e5818c-a125-4538-94c7-f2a251082e36)
+[comptia security certificate](https://github.com/user-attachments/assets/e0e5818c-a125-4538-94c7-f2a251082e36)
 
 
 
